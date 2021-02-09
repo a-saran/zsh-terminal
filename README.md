@@ -10,6 +10,7 @@ INSTALL __oh-my-zsh__
 INSTALL __powerlevel9k__ theme
  - https://github.com/bhilburn/powerlevel9k
 
+Must have Nerdfont-complete font to support all icons
 
 __zsh-plugins__
 - https://github.com/robbyrussell/oh-my-zsh/wiki/Plugins
